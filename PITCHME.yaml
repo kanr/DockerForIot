@@ -58,6 +58,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Quickstart Template"
-description : "High-utility markdown slide templates for GitPitch presentation authors."
-thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
+title : "Docker For the Internet Of Things"
+description : "Managing containers for IoT with Balena.io and BalenaCloud"
+thumbnail : https://gitpitch.com/kanr/DockerForIoT/master
