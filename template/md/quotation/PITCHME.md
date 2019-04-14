@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/graph.jpg
 @title[Quotation Templates]
 
 ## @color[black](Quotation<br>Slide Templates)

@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/graph.jpg
 @title[Header + Footer Templates]
 
 ## @color[black](Header & Footer<br>Slide Templates)

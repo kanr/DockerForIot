@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/graph.jpg
 @title[Image Templates]
 
 ## @color[black](Image<br>Slide Templates)

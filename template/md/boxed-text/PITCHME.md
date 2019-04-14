@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/graph.jpg
 @title[Boxed Text Templates]
 
 ## @color[black](Boxed Text<br>Slide Templates)

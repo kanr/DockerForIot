@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=template/img/graph.jpg
 @title[Sidebox Templates]
 
 ## @color[black](Sidebox<br>Slide Templates)
