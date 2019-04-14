@@ -37,7 +37,7 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/split-screen/PITCHME.md
 
----?include=template/md/sidebar/PITCHME.md
+<!-- ---?include=template/md/sidebar/PITCHME.md
 
 ---?include=template/md/list-content/PITCHME.md
 
@@ -59,7 +59,7 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/wrap-up/PITCHME.md
 
----?image=template/img/presenter.jpg
+---?image=template/img/presenter.jpg -->
 @title[The Template Docs]
 
 @snap[west sign-off]
