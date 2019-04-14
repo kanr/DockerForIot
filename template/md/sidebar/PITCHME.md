@@ -3,7 +3,7 @@
 
 ## @color[black](Sidebar<br>Slide Templates)
 
-@fa[arrow-down text-black]
+@fa[arrow-down text-grey]
 
 @snap[south docslink span-50]
 [The Template Docs](https://gitpitch.com/docs/the-template)
