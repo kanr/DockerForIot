@@ -15,6 +15,7 @@
 
 @snap[west text-white]
 @size[3em](1.)
+@fa[fa-docker fab-3x text-white]
 @snapend
 
 @snap[east span-70]
@@ -22,11 +23,11 @@
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebar with heading body template.
+Docker for IoT
 @snapend
 
 
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
++++?image=template/img/bg/yellow.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
@@ -42,7 +43,7 @@ Sidebar with image body template.
 @snapend
 
 
-+++?image=template/img/bg/green.jpg&position=left&size=30% 100%
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Mixed Body]
 
 @snap[west text-white]
@@ -60,7 +61,7 @@ Sidebar with mixed body template.
 @snapend
 
 
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 100%
++++?image=template/img/bg/yellow.jpg&position=left&size=30% 100%
 @title[Sidebar + Text Body]
 
 @snap[west text-white]
