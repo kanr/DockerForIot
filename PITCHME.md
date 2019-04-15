@@ -67,6 +67,6 @@ For the best viewing experience, press F for fullscreen.
 
 @snap[south docslink text-gold span-100]
 
-++?image=template/img/gitpitch-qr-master.png&position=left&size=30% 100%
+++?image=template/img/gitpitch-qr-master.jpg&position=left&size=30% 100%
 <!-- For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template) -->
 @snapend
