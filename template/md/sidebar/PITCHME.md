@@ -5,7 +5,7 @@
 
 @fa[arrow-down text-grey]
 
-@snap[south docslink span-50]
+@snap[south docslink span-60]
 [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
 
@@ -13,11 +13,11 @@
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
-@snap[west text-white]
-@fab[docker fa-7x text-white]
+@snap[north-west text-white]
+@fab[docker fa-6x text-white]
 @snapend
 
-@snap[span-70]
+@snap[west span-70]
 Native Docker can be installed and ran on the Raspberry Pi
 @snapend
 
@@ -25,7 +25,7 @@ Native Docker can be installed and ran on the Raspberry Pi
 Docker for IoT
 @snapend
 
-@snap[north-east span-30]
+@snap[north span-30]
 ![docker-pi](/template/img/docker_raspberrypi.png)
 @snapend
 
