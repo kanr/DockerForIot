@@ -61,11 +61,12 @@ For the best viewing experience, press F for fullscreen.
 ---?image=template/img/presenter.jpg
 @title[The Template Docs]
 
-@snap[west sign-off]
+<!-- @snap[west sign-off]
 ### Now it's your turn.
-@snapend
+@snapend -->
 
 ++?image=template/img/gitpitch-qr-master.jpg&position=left&size=30% 100%
+@title[Covered Background]
 
 @snap[south docslink text-gold span-100]
 
