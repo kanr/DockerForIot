@@ -25,7 +25,7 @@ Native Docker can be installed and ran on the Raspberry Pi
 Docker for IoT
 @snapend
 
-@snap[north span-30]
+@snap[north span-40]
 ![docker-pi](/template/img/docker_raspberrypi.png)
 @snapend
 
