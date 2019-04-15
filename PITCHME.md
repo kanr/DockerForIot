@@ -65,7 +65,7 @@ For the best viewing experience, press F for fullscreen.
 ### Now it's your turn.
 @snapend -->
 
-++?image=template/img/gitpitch-qr-master.jpg&position=left&size=30% 100%
++++?image=template/img/gitpitch-qr-master.jpg&position=left&size=30% 100%
 @title[Covered Background]
 
 @snap[south docslink text-gold span-100]
