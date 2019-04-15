@@ -13,7 +13,7 @@
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
-@snap[north-west text-white]
+@snap[north-west sidebar text-white]
 @fab[docker fa-3x text-white]
 @snapend
 
