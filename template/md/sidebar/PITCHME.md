@@ -17,7 +17,7 @@
 @fab[docker fa-3x text-white]
 @snapend
 
-@snap[south-west text-white span-10]
+@snap[south-west text-white span-40]
 @fab[raspberry-pi fa-3x text-white]
 @snapend
 
