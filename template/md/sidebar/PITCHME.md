@@ -14,15 +14,19 @@
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@fa[fa-docker fab-3x text-white]
+@fab[docker text-white]
 @snapend
 
 @snap[east span-70]
-<h2>Lorem ipsum @css[text-blue](dolor)</h2>
+Native Docker can be installed and ran on the Raspberry Pi
 @snapend
 
 @snap[north-east template-note text-gray]
 Docker for IoT
+@snapend
+
+@snap[north-east span-70]
+![docker-pi](/template/img/docker_raspberrypi.png)
 @snapend
 
 
@@ -30,7 +34,7 @@ Docker for IoT
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
-@fa[rocket fa-2x text-white]
+<h2>Lorem ipsum @css[text-blue](dolor)</h2>
 @snapend
 
 @snap[east span-70]
