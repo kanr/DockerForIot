@@ -13,8 +13,12 @@
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
-@snap[west text-white span-10]
-@fab[docker fa-4x text-white]
+@snap[north-west text-white]
+@fab[docker fa-3x text-white]
+@snapend
+
+@snap[south-west text-white span-10]
+@fab[raspberry-pi fa-3x text-white]
 @snapend
 
 @snap[east]
