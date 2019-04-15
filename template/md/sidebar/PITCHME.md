@@ -14,7 +14,6 @@
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@size[3em](1.)
 @fa[fa-docker fab-3x text-white]
 @snapend
 
@@ -31,7 +30,7 @@ Docker for IoT
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
-@size[3em](2.)
+@fa[rocket fa-2x text-white]
 @snapend
 
 @snap[east span-70]
@@ -47,7 +46,7 @@ Sidebar with image body template.
 @title[Sidebar + Mixed Body]
 
 @snap[west text-white]
-@size[3em](3.)
+@fa[rocket fa-1x text-orange]
 @snapend
 
 @snap[east span-70]
@@ -65,7 +64,7 @@ Sidebar with mixed body template.
 @title[Sidebar + Text Body]
 
 @snap[west text-white]
-@size[3em](4.)
+@fa[rocket fa-4x text-orange]
 @snapend
 
 @snap[east span-70]
