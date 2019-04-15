@@ -17,7 +17,7 @@
 @fab[docker fa-6x text-white]
 @snapend
 
-@snap[east span-70]
+@snap[east]
 Native Docker can be installed and ran on the Raspberry Pi
 @snapend
 
