@@ -18,7 +18,7 @@
 @snapend
 
 @snap[east]
-Native Docker can be installed and ran on the Raspberry Pi
+Native Docker can be installed <br>and run on the Raspberry Pi
 @snapend
 
 @snap[north-east template-note text-gray]
