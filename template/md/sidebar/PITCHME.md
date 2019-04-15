@@ -14,10 +14,10 @@
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@fab[docker text-white]
+@fab[docker fa-7x text-white]
 @snapend
 
-@snap[east span-70]
+@snap[south span-70]
 Native Docker can be installed and ran on the Raspberry Pi
 @snapend
 
@@ -25,7 +25,7 @@ Native Docker can be installed and ran on the Raspberry Pi
 Docker for IoT
 @snapend
 
-@snap[north-east span-70]
+@snap[north-east span-30]
 ![docker-pi](/template/img/docker_raspberrypi.png)
 @snapend
 
