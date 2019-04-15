@@ -14,7 +14,7 @@
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@fab[docker fa-7x text-white]
+@fab[docker fab-7x text-white]
 @snapend
 
 @snap[south span-70]
