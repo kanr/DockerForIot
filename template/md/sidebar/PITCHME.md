@@ -3,7 +3,7 @@
 
 ## @color[grey](Background)
 
-@fa[arrow-down text-grey]
+@fa[arrow-down text-gray]
 
 <!-- 
 @snap[south docslink span-60]
