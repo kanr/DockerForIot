@@ -1,13 +1,13 @@
 ---?image=template/img/graph.jpg
-@title[Sidebar Templates]
+@title[Sidebar Background]
 
 ## @color[grey](Bakground)
 
 @fa[arrow-down text-grey]
 
-@snap[south docslink span-60]
+<!-- @snap[south docslink span-60]
 [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+@snapend -->
 
 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
