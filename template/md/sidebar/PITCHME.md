@@ -1,7 +1,7 @@
 ---?image=template/img/graph.jpg
 @title[Sidebar Templates]
 
-## @color[black](Sidebar<br>Slide Templates)
+## @color[grey](Bakground)
 
 @fa[arrow-down text-grey]
 
