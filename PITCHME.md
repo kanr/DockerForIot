@@ -61,7 +61,7 @@ For the best viewing experience, press F for fullscreen.
 ---?image=template/img/presenter.jpg
 @title[Conclusion]
 
-@snap[north-west span-50]
+@snap[north-east span-50]
 ![QR](template/img/gitpitch-qr-master.jpg)
 @snapend
 
