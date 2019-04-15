@@ -14,10 +14,10 @@
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@fab[docker fab-7x text-white]
+@fab[docker fa-7x text-white]
 @snapend
 
-@snap[south span-70]
+@snap[span-70]
 Native Docker can be installed and ran on the Raspberry Pi
 @snapend
 
