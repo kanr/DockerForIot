@@ -59,15 +59,17 @@ For the best viewing experience, press F for fullscreen.
 ---?include=template/md/wrap-up/PITCHME.md
 
 ---?image=template/img/presenter.jpg
-@title[The Template Docs]
+@title[Conclusion]
+
+@snap
+
+![QR](template/img/gitpitch-qr-master.jpg)
+@snapend
 
 @snap[west sign-off]
-
-+++?image=template/img/gitpitch-qr-master.jpg&position=left
-@title[Covered Background]
-
 Questions?
 @snapend
+
 
 
 
