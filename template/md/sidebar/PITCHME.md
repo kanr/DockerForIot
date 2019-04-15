@@ -13,12 +13,14 @@
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
-@snap[north-west text-white span-10]
-@fab[docker fa-6x text-white]
+@snap[west text-white span-10]
+@fab[docker fa-4x text-white]
 @snapend
 
 @snap[east]
-Native Docker can be installed <br>and run on the Raspberry Pi
+Native Docker can be installed
+<br>
+and run on the Raspberry Pi
 @snapend
 
 @snap[north-east template-note text-gray]
