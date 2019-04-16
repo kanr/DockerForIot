@@ -1,9 +1,9 @@
----?image=template/img/graph.jpg
-@title[Sidebar Background]
+---?image=template/img/background.jpg
+@title[Background]
 
-## @color[grey](Background)
+## @color[white](Background)
 
-@fa[arrow-down text-gray]
+@fa[arrow-down text-white]
 
 <!-- 
 @snap[south docslink span-60]
