@@ -10,7 +10,7 @@
 @snapend
 
 
-+++?image=template/img/balena_workflow.png auto
++++?image=template/img/balena_workflow.png
 @title[Title + Concise List]
 
 @snap[south-west template-note text-gray]
