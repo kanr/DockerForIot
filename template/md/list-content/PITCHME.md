@@ -12,7 +12,7 @@
 Balena Workflow
 @snapend
 
-+++
+---?color=linear-gradient(to right, #82b1ff, #fffa82)
 @snap[west list-content-verbose span-100]
 <br>
 @ul[](false)
