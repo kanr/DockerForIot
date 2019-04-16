@@ -9,31 +9,33 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+Docker for IOT<br>*with Balena*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Containers on the edge
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[Speaker Intro]
 
-### Each slide in this presentation is provided as a *template*.
+### Connor Aitken 
+<br> 
+## Devops Engineer @ Capital One
 
-<br><br>
+<!-- <br><br>
 
 @snap[south span-100 text-purple text-05]
 Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
+@snapend -->
 
 ---
-@title[Tip! Fullscreen]
+@title[Projects]
 
-![TIP](template/img/tip.png)
+<!-- ![TIP](template/img/tip.png) -->
 <br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+My Background in IoT
+@css[template-note](Environmental Monitoring and control)
 
 
 ---?include=template/md/sidebar/PITCHME.md
