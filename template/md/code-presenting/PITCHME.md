@@ -57,7 +57,7 @@ Code presenting fenced code block template.
 @snapend
 
 
-+++?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&color=black
++++?gist=kanr/d1c9e5fb06417ae8f8b3d8c37a6b4a50=ruby&color=black
 @title[GitHub GIST]
 
 @[1-6](You can even present code found within any GitHub GIST.)
