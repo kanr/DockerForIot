@@ -12,7 +12,7 @@
 Balena Workflow
 @snapend
 
----
++++
 @snap[west list-content-verbose span-100]
 <br>
 @ul[](false)
@@ -20,6 +20,6 @@ Balena Workflow
 - Device provisioning key pulls image when its pushed to registry
 - Dockerfile(s) and docker-compose.yml files build containers
 - Once containers are built they are stored in Balenas Container registry
-- devices can be managed from Balenas Dashboard
+- devices can be managed from Balenas' Dashboard
 @ulend
 @snapend
