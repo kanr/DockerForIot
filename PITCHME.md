@@ -21,13 +21,13 @@ Containers on the edge
 
 ### Connor Aitken 
 <br> 
-## Devops Engineer @ Capital One
+##### Devops Engineer @ Capital One
 
-<!-- <br><br>
-
+<!-- 
 @snap[south span-100 text-purple text-05]
 Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend -->
+@snapend 
+-->
 
 ---
 @title[Projects]
@@ -35,6 +35,7 @@ Reuse the *markdown snippet* for any slide in this template within your own @css
 <!-- ![TIP](template/img/tip.png) -->
 <br>
 My Background in IoT
+<br>
 @css[template-note](Environmental Monitoring and control)
 
 
