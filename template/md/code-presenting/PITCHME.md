@@ -79,37 +79,38 @@ Code presenting GitHub GIST template.
 
 
 +++?color=#36454F
-@title[Fenced Text Block]
+@title[Project Tree]
 
 ```text
 .
-├── PITCHME.md
-├── PITCHME.yaml
-└── template
-    ├── css
-    │   └── PITCHME.css
-    ├── img
-    │   ├── batman.png
-    │   ├── dataflow.png
-    │   ├── developer.jpg
-    │   └── ....
-    └── md
-        ├── about/PITCHME.md
-        ├── announcement/PITCHME.md
-        ├── code-presenting/PITCHME.md
-        ├── header-footer/PITCHME.md
-        ├── image/PITCHME.md
-        ├── list-content/PITCHME.md
-        ├── quotation/PITCHME.md
-        ├── sidebar/PITCHME.md
-        ├── sidebox/PITCHME.md
-        ├── split-screen/PITCHME.md
-        └── wrap-up/PITCHME.md
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── VERSION
+├── docker-compose.yml
+├── grafana
+│   ├── Dockerfile.template
+│   ├── grafana.db
+│   ├── grafana.ini
+│   └── start.sh
+├── influxdb
+│   └── Dockerfile.template
+├── repo.yml
+└── sensor
+    ├── Dockerfile.template
+    └── scripts
+        ├── bme680_air_quality.py
+        ├── happy.png
+        ├── hmm.png
+        ├── sad.png
+        ├── sense_hat_air_quality.py
+        └── take_measurement.py
+
 ```
 
-@[1-3, 6](Code presenting can also be used to step through any text-based content.)
-@[4,5,7,12](Here for example we can navigate through the directory structure for this template.)
-@[12-23](We can see that this template uses GitPitch's cool modular markdown support @fa[smile-o fa-spin])
+@[4-5, 10,12](root directory)
+@[8,13,16](Dockerfile.template)
+@[18,22,23](Scripts)
 
 @snap[north-east template-note text-white]
 Code presenting fenced text block template.
