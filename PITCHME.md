@@ -36,11 +36,13 @@ Reuse the *markdown snippet* for any slide in this template within your own @css
 <br>
 My Background in IoT
 <br>
-@css[template-note](Environmental Monitoring and control)
+@css[template-note](Environmental Monitoring and Control)
 
 ---?include=template/md/background/PITCHME.md
 
 ---?include=template/md/code-presenting/PITCHME.md
+
+---?include=template/md/list-content/PITCHME.md
 
 ---?image=template/img/presenter.jpg
 
