@@ -10,17 +10,17 @@
 @snapend
 
 
-+++?code=template/source/docker-compose.yml&lang=yaml
++++?code=template/examples/docker-compose.yml&lang=yaml
 @title[Repo Source File]
 
-<!-- 
-@[1,3-6](Present code found within any repository source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
--->
+
+@[1,2-9](Present code found within any repository source file.)
+@[10-18](Without ever leaving your slideshow.)
+@[19-24](Using GitPitch code-presenting with (optional) annotations.)
+
 
 @snap[north-east template-note text-gray]
-Code presenting repository source file template.
+Balena Multi-Container Build with `docker-compose.yml`
 @snapend
 
 
