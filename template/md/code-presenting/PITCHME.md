@@ -10,7 +10,7 @@
 @snapend
 
 
-+++?code=template/src/go/server.go&lang=golang
++++?code=source/docker-compose.yml&lang=yaml
 @title[Repo Source File]
 
 @[1,3-6](Present code found within any repository source file.)

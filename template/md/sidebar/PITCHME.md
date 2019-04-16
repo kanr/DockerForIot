@@ -38,6 +38,7 @@ Docker for IoT
 @snapend
 
 
+<!-- 
 +++?image=template/img/bg/yellow.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
@@ -51,9 +52,11 @@ Docker for IoT
 
 @snap[north-east template-note text-gray]
 Sidebar with image body template.
-@snapend
+@snapend 
+-->
 
 
+<!-- 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Mixed Body]
 
@@ -69,16 +72,20 @@ We Have Lift Off
 
 @snap[north-east template-note text-gray]
 Sidebar with mixed body template.
-@snapend
+@snapend 
+-->
 
 
+<!-- 
 +++?image=template/img/bg/yellow.jpg&position=left&size=30% 100%
 @title[Sidebar + Text Body]
 
 @snap[west text-white]
 @fa[rocket fa-4x text-orange]
-@snapend
+@snapend 
+-->
 
+<!-- 
 @snap[east span-70]
 Duis aute irure dolor in reprehenderit in voluptate velit @size[1.25em](esse cillum) dolore eu fugiat nulla pariatur.
 <br><br>
@@ -87,4 +94,5 @@ Excepteur sint occaecat cupidatat non proident, @css[text-pink](sunt in culpa) q
 
 @snap[north-east template-note text-gray]
 Sidebar with text body template.
-@snapend
+@snapend 
+-->
