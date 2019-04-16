@@ -10,7 +10,7 @@
 @snapend
 
 
-+++?code=source/docker-compose.yml&lang=yaml
++++?code=template/source/docker-compose.yml&lang=yaml
 @title[Repo Source File]
 
 @[1,3-6](Present code found within any repository source file.)
