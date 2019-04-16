@@ -1,7 +1,7 @@
 ---?image=template/img/graph.jpg
 @title[List Content Templates]
 
-## @color[black](List Content<br>Slide Templates)
+## @color[white](Balena Workflow)
 
 @fa[arrow-down text-black]
 
