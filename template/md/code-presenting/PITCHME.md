@@ -1,29 +1,31 @@
 ---?image=template/img/graph.jpg
 @title[Code Presenting Templates]
 
-## @color[black](Code Presenting<br>Slide Templates)
+## @color[white](Project Structure)
 
-@fa[arrow-down text-black]
+@fa[arrow-down text-white]
 
+<!-- 
 @snap[south docslink span-50]
 [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
+-->
 
 
 +++?code=template/examples/docker-compose.yml&lang=yaml
 @title[Repo Source File]
 
 
-@[1,2-9](Present code found within any repository source file.)
-@[10-18](Without ever leaving your slideshow.)
-@[19-24](Using GitPitch code-presenting with (optional) annotations.)
+@[1,2-9](Volumes and Database)
+@[10-18](Grafana Dashboard)
+@[19-24](Sensor Container))
 
 
 @snap[north-east template-note text-gray]
 Balena Multi-Container Build with `docker-compose.yml`
 @snapend
 
-
+<!--
 +++?color=lavender
 @title[Fenced Code Block]
 
@@ -49,6 +51,7 @@ http.createServer(function (request, response) {
 // Listen on the 8080 port.
 }).listen(8080);
 ```
+-->
 
 <!--
 @[1,2](You can present code inlined within your slide markdown too.)
