@@ -3,18 +3,11 @@
 
 ## @color[white](Balena Workflow)
 
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
+@fa[arrow-down text-white]
 
 +++?image=template/img/balena_workflow.png
 @title[Title + Concise List]
 
 @snap[south-west template-note text-gray]
-Concise ordered list-items template.
+Balena Workflow
 @snapend
-
-
