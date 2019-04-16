@@ -13,9 +13,11 @@
 +++?code=template/source/docker-compose.yml&lang=yaml
 @title[Repo Source File]
 
+<!-- 
 @[1,3-6](Present code found within any repository source file.)
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
+-->
 
 @snap[north-east template-note text-gray]
 Code presenting repository source file template.
@@ -48,9 +50,11 @@ http.createServer(function (request, response) {
 }).listen(8080);
 ```
 
+<!--
 @[1,2](You can present code inlined within your slide markdown too.)
 @[9-17](Your code is displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
+-->
 
 @snap[north-east template-note text-gray]
 Code presenting fenced code block template.
