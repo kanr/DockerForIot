@@ -6,9 +6,11 @@
 @fa[arrow-down text-white]
 
 <!-- 
+
 @snap[south docslink span-50]
 [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
+
 -->
 
 
@@ -18,7 +20,7 @@
 
 @[1,2-9](Volumes and Database)
 @[10-18](Grafana Dashboard)
-@[19-24](Sensor Container))
+@[19-24](Sensor Container)
 
 
 @snap[north-east template-note text-gray]
@@ -64,7 +66,7 @@ Code presenting fenced code block template.
 @snapend
 
 
-+++?gist=kanr/d1c9e5fb06417ae8f8b3d8c37a6b4a50=ruby&color=black
++++?gist=kanr/d1c9e5fb06417ae8f8b3d8c37a6b4a50&=ruby&color=black
 @title[GitHub GIST]
 
 @[1-6](You can even present code found within any GitHub GIST.)
