@@ -20,17 +20,16 @@ Containers on the edge
 @title[Speaker Intro]
 
 @snap[midpoint text-white]
-### Connor Aitken 
+@title[Speaker]
+***Connor Aitken ***
 <br> 
-##### Devops Engineer @ Capital One
+Devops Engineer @ Capital One
 @snapend
 
 
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
 @title[Projects]
-
-
 <br>
 My Background in IoT
 <br>
