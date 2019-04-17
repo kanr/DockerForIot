@@ -9,6 +9,9 @@
 *formerly Resin.io*
 @snapend
 
+note:
+balena es en espanol
+less then a year ago Balena was Resin, info about why can be read in their blog. Short story, it was trademark dispute. 
 +++
 
 @snap[midpoint]
@@ -16,7 +19,8 @@ Mostly* open source.
 OpenBalena (beta)
 Contributer to Moby
 @snapend
-
+note:
+Balena is an upstream 
 +++?image=template/img/balena_workflow.png&position=center right&size=90% auto
 @title[Title + Concise List]
 

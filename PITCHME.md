@@ -9,27 +9,29 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-Docker for IOT<br>*with Balena*
+Docker *for/on/and* the Internet of Things
 @snapend
 
 @snap[south-west byline text-white text-06]
 Containers on the edge
 @snapend
 
----
+---color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Speaker Intro]
 
+@snap[midpoint text-white]
 ### Connor Aitken 
 <br> 
 ##### Devops Engineer @ Capital One
-
+@snapend
 <!-- 
 @snap[south span-100 text-purple text-05]
 Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
 @snapend 
 -->
 
----
+---color=linear-gradient(to top, #022c8c, #f2e235)
+@snap[midpoint text-white]
 @title[Projects]
 
 <!-- ![TIP](template/img/tip.png) -->
@@ -37,6 +39,7 @@ Reuse the *markdown snippet* for any slide in this template within your own @css
 My Background in IoT
 <br>
 @css[template-note](Environmental Monitoring and Control)
+@snapend
 
 ---?include=template/md/background/PITCHME.md
 
