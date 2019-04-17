@@ -16,7 +16,7 @@ Docker *for/on/and* the Internet of Things
 Containers on the edge
 @snapend
 
----color=linear-gradient(to top, #022c8c, #f2e235)
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Speaker Intro]
 
 @snap[midpoint text-white]
@@ -30,7 +30,7 @@ Reuse the *markdown snippet* for any slide in this template within your own @css
 @snapend 
 -->
 
----color=linear-gradient(to top, #022c8c, #f2e235)
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
 @title[Projects]
 
