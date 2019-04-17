@@ -40,7 +40,7 @@ My Background in IoT
 
 ---?include=template/md/background/PITCHME.md
 
----?include=template/md/list-content/PITCHME.md
+---?include=template/md/balenaio/PITCHME.md
 
 ---?include=template/md/code-presenting/PITCHME.md
 

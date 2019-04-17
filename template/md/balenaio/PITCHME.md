@@ -1,9 +1,13 @@
 ---?image=template/img/graph.jpg
 @title[List Content Templates]
 
-## @color[white](Balena Workflow)
+## @color[white](Balena.io ecosystem)
 
 @fa[arrow-down text-white]
+
+@snap[south-west text-white]
+*formerly Resin.io*
+@snapend
 
 +++?image=template/img/balena_workflow.png&position=center right&size=90% auto
 @title[Title + Concise List]
