@@ -1,4 +1,4 @@
----?image=template/img/balena_artboard.png&size=auto 90%
+---?image=template/img/balena_artboard.png&size=auto 99%
 @title[Code Presenting Templates]
 
 ## @color[white](Project Structure)
