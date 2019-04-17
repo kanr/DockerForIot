@@ -26,7 +26,6 @@ Containers on the edge
 Devops Engineer @ Capital One
 @snapend
 
-
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
 @title[Projects]
