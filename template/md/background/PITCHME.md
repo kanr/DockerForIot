@@ -33,15 +33,12 @@ and run on the Raspberry Pi
 Docker for IoT
 @snapend
 
-
-
-+++
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 
 @snap[midpoint]
 
-Home assistant and hassio (cloud controller)
-
-HaasOS - hard fork of resinOS which is now BalenaOS
+- Home assistant and hassio (cloud controller)
+- HaasOS - hard fork of resinOS which is now BalenaOS
 
 [58 repositories ](https://github.com/home-assistant)
 @snapend
