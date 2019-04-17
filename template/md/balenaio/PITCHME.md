@@ -24,7 +24,7 @@ Contributer to Moby
 Balena Workflow
 @snapend
 
-+++?color=linear-gradient(to right, #82b1ff, #fffa82)
++++?color=linear-gradient(to right, #022c8c, #f2e235)
 @snap[west list-content-verbose span-100]
 <br>
 @ul[](false)
