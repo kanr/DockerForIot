@@ -1,4 +1,4 @@
----?color=diagonally(to right, blue, yellow, green)
+---?color=diagonally(to right, #0f32af, #f2e235)
 @title[Introduction]
 
 <!--
