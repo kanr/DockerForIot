@@ -1,4 +1,4 @@
----?image=template/img/background.jpg
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Background]
 
 ## @color[white](Background)

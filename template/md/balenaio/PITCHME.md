@@ -1,4 +1,4 @@
----?image=template/img/graph.jpg
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[List Content Templates]
 
 ## @color[white](Balena.io ecosystem)
