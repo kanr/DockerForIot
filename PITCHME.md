@@ -21,10 +21,11 @@ Containers on the edge
 
 @snap[midpoint text-white]
 @title[Speaker]
-***Connor Aitken ***
+## @color[white]Connor Aitken 
 <br> 
-Devops Engineer @ Capital One
+##### @color[white]Devops Engineer @ Capital One
 @snapend
+
 
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
