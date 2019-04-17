@@ -13,7 +13,7 @@ note:
 balena es en espanol
 less then a year ago Balena was Resin, info about why can be read in their blog. Short story, it was trademark dispute. 
 
-+++?image=template/img/balena_artboard.png&size=auto
++++?image=template/img/balena_artboard.png&size=auto 99%
 @snap[midpoint text-white]
 Mostly* open source.
 OpenBalena (beta)
