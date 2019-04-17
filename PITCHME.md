@@ -1,4 +1,4 @@
----?color=linear-gradient(to top, #0f32af, #f2e235)
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Introduction]
 
 <!--
