@@ -24,17 +24,13 @@ Containers on the edge
 <br> 
 ##### Devops Engineer @ Capital One
 @snapend
-<!-- 
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend 
--->
+
 
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
 @title[Projects]
 
-<!-- ![TIP](template/img/tip.png) -->
+
 <br>
 My Background in IoT
 <br>
