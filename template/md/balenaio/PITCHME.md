@@ -9,6 +9,14 @@
 *formerly Resin.io*
 @snapend
 
++++
+
+@snap[midpoint]
+Mostly* open source.
+OpenBalena (beta)
+Contributer to Moby
+@snapend
+
 +++?image=template/img/balena_workflow.png&position=center right&size=90% auto
 @title[Title + Concise List]
 
