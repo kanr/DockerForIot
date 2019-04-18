@@ -14,7 +14,6 @@
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 
 @snap[midpoint]
-
 Processors
 <br>
 ARM vs x86
