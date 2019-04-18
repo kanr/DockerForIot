@@ -10,8 +10,7 @@
 @snapend
 
 note:
-balena es en espanol
-less then a year ago Balena was Resin, info about why can be read in their blog. Short story, it was trademark dispute. 
+less then a year ago Balena was Resin, info about why can be read in their blog. Short story, it was trademark dispute.
 
 +++?image=template/img/balena_artboard.png&size=auto 99%
 @snap[midpoint text-white]
@@ -23,9 +22,11 @@ Contributer to Moby
 @snapend
 
 note:
-Balena is an upstream contributer to the Moby project
+Balena is an upstream contributer to the Moby project. A platform for managing fleets of linux devices that can be updated easily and often in a safe and secure way
 
-+++?image=template/img/balena_workflow.png&position=center right&size=90% auto
++++?image=template/img/balena_workflow.png&position=center right&size=99% auto
++++?image=template/img/balena-device.png&position=center&size=99% auto
+
 @title[Title + Concise List]
 
 @snap[south-west template-note text-gray]
