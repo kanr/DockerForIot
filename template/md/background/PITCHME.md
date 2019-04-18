@@ -50,6 +50,9 @@ and run on the Raspberry Pi
 Docker for IoT
 @snapend
 
+note:
+work for docker on the raspberry pi began comming out for the raspberry pi in 2016. You can install docker natively in raspbian os, a debian linux distrbuted by the raspberry pi foundation.
+
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 
 @snap[midpoint]
@@ -57,5 +60,11 @@ Docker for IoT
 - Home assistant and hassio (cloud controller)
 - HaasOS hard fork of resinOS which is now BalenaOS
 @ulend
-
 @snapend
+
+@snap[west]
+![HA](template/img/homeassistantio.png)
+@snapend
+
+note: 
+Home assistant is an open source platform for integrating Smart home technologies

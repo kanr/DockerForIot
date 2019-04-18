@@ -16,6 +16,9 @@ Docker for <br> the Internet of Things
 Containers on the edge
 @snapend
 
+note:
+What I hope to illustrate with this talk and the following demonstration is that docker is a great tool for developing and deploying applications for embedded devices.
+
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Speaker Intro]
 
@@ -25,7 +28,6 @@ Containers on the edge
 <br> 
 ##### @color[white](Devops Engineer @ Capital One)
 @snapend
-
 
 ---?color=linear-gradient(to top, #022c8c, #f2e235)
 @snap[midpoint text-white]
@@ -42,7 +44,6 @@ My Background in IoT
 
 ---?include=template/md/code-presenting/PITCHME.md
 
----?image=template/img/presenter.jpg
 
 @title[Conclusion]
 
