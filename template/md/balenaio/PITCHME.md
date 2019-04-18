@@ -6,7 +6,7 @@
 @fa[arrow-down text-white]
 
 @snap[south-west text-white]
-*formerly Resin.io*
+[*formerly Resin.io*](https://www.balena.io/blog/resin-io-changes-name-to-balena-releases-open-source-edition/)
 @snapend
 
 note:

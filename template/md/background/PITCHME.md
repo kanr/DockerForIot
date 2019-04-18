@@ -11,6 +11,23 @@
 @snapend 
 -->
 
++++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
+
+@snap[midpoint]
+
+Processors
+<br>
+ARM vs x86
+lower power vs higher performance
+@snapend
+
+@snap
+![armintel](../../img/armvx86.png)
+@snapend
+
+note:
+the main difference between ARM and x86 processors is the instruction set. RISC and CISC
+
 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
@@ -35,7 +52,7 @@ Docker for IoT
 
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 
-@snap[midpoint span-55]
+@snap[midpoint]
 @ul[](false)
 - Home assistant and hassio (cloud controller)
 - HaasOS hard fork of resinOS which is now BalenaOS
