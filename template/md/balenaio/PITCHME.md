@@ -21,8 +21,10 @@ OpenBalena (beta)
 <br>
 Contributer to Moby
 @snapend
+
 note:
-Balena is an upstream 
+Balena is an upstream contributer to the Moby project
+
 +++?image=template/img/balena_workflow.png&position=center right&size=90% auto
 @title[Title + Concise List]
 
