@@ -62,7 +62,7 @@ work for docker on the raspberry pi began comming out for the raspberry pi in 20
 @ulend
 @snapend
 
-@snap[west]
+@snap[east]
 ![HA](template/img/homeassistantio.png)
 @snapend
 
