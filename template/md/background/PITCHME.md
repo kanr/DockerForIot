@@ -18,11 +18,12 @@
 Processors
 <br>
 ARM vs x86
+<br>
 lower power vs higher performance
 @snapend
 
-@snap
-![armintel](../../img/armvx86.png)
+@snap[east]
+![armintel](presentation/template/img/armvx86.png)
 @snapend
 
 note:
