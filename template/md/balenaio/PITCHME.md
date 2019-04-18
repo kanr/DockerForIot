@@ -26,7 +26,7 @@ Balena is an upstream contributer to the Moby project. A platform for managing f
 
 +++?image=template/img/balena_workflow.png&position=center right&size=99% auto
 
-+++?image=template/img/balena-device.png&position=center
+<!-- +++?image=template/img/balena-device.png&position=center -->
 
 @title[Title + Concise List]
 
