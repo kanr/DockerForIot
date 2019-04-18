@@ -25,7 +25,7 @@ note:
 Balena is an upstream contributer to the Moby project. A platform for managing fleets of linux devices that can be updated easily and often in a safe and secure way
 
 +++?image=template/img/balena_workflow.png&position=center right&size=99% auto
-+++?image=template/img/balena-device.png&position=center&size=99% auto
++++?image=template/img/balena-device.png&position=center right&size=99% auto
 
 @title[Title + Concise List]
 
