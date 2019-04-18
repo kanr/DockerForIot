@@ -9,7 +9,7 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-Docker *for/on/and* the Internet of Things
+Docker for <br> the Internet of Things
 @snapend
 
 @snap[south-west byline text-white text-06]

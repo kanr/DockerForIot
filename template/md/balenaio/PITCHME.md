@@ -16,7 +16,9 @@ less then a year ago Balena was Resin, info about why can be read in their blog.
 +++?image=template/img/balena_artboard.png&size=auto 99%
 @snap[midpoint text-white]
 Mostly* open source.
+<br>
 OpenBalena (beta)
+<br>
 Contributer to Moby
 @snapend
 note:
@@ -28,8 +30,8 @@ Balena is an upstream
 Balena Workflow
 @snapend
 
-+++?color=linear-gradient(to right, #022c8c, #f2e235)
-@snap[west list-content-verbose span-100]
++++?color=linear-gradient(to top, #022c8c, #f2e235)
+@snap[west list-content-verbose text-white span-100]
 <br>
 @ul[](false)
 - Balena is built with the goal of 100% updateability

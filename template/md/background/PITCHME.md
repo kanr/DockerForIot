@@ -36,9 +36,9 @@ Docker for IoT
 +++?image=template/img/bg/blue.jpg&position=left&size=30% 100%
 
 @snap[midpoint]
-
+@ul[](false)
 - Home assistant and hassio (cloud controller)
-- HaasOS - hard fork of resinOS which is now BalenaOS
-
+- HaasOS hard fork of resinOS which is now BalenaOS
+@ulend
 [58 repositories ](https://github.com/home-assistant)
 @snapend
