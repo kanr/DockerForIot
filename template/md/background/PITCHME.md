@@ -23,7 +23,7 @@ lower power vs higher performance
 @snapend
 
 @snap[east]
-![armintel](presentation/template/img/armvx86.png)
+![armintel](template/img/armvx86.png)
 @snapend
 
 note:
