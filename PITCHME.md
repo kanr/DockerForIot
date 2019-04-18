@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to top, #022c8c, #f2e235)
 @title[Introduction]
 
 <!--
@@ -9,62 +9,55 @@ Step 3. Copy slide markdown snippets from template/md directory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+Docker for <br> the Internet of Things
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Containers on the edge
 @snapend
 
----
-@title[Slide Markdown]
+---?color=linear-gradient(to top, #022c8c, #f2e235)
+@title[Speaker Intro]
 
-### Each slide in this presentation is provided as a *template*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
+@snap[midpoint text-white]
+@title[Speaker]
+## @color[white](Connor Aitken )
+<br> 
+##### @color[white](Devops Engineer @ Capital One)
 @snapend
 
----
-@title[Tip! Fullscreen]
 
-![TIP](template/img/tip.png)
+---?color=linear-gradient(to top, #022c8c, #f2e235)
+@snap[midpoint text-white]
+@title[Projects]
 <br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+My Background in IoT
+<br>
+@css[template-note](Environmental Monitoring and Control)
+@snapend
 
+---?include=template/md/background/PITCHME.md
 
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
+---?include=template/md/balenaio/PITCHME.md
 
 ---?include=template/md/code-presenting/PITCHME.md
 
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
 ---?image=template/img/presenter.jpg
-@title[The Template Docs]
 
-@snap[west sign-off]
-### Now it's your turn.
+@title[Conclusion]
+
+@snap[north-east span-50]
+![QR](template/img/gitpitch-qr-master.jpg)
 @snapend
 
+@snap[west sign-off]
+Questions?
+@snapend
+
+
+
+
 @snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+
+<!-- For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template) -->
 @snapend
